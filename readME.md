@@ -1,0 +1,1 @@
+Idk wordle solver trying to get below O(n^2)
